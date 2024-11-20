@@ -2,7 +2,6 @@
 *api/uploads/*
 .env
 
-api/profilePhotos/*
 
 
 # dependencies
@@ -13,5 +12,4 @@ api/profilePhotos/*
 *.psd
 # *.mp4
 *.glb
-/api/node_modules
 /api/node_modules
