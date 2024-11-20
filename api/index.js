@@ -159,7 +159,6 @@ app.get('/profile/:username', async (req, res) => {
 
 
 //? Payment
-
 app.post('/payment', async (req, res) => {
     const { userId, price, paymentCard } = req.body;
 
